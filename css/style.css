@@ -982,7 +982,7 @@ a.play-icon.popup-with-zoom-anim {
 .contact input[type="text"],.contact input[type="email"]{
     width: 47.7%;
     color: #999;
-    float: left;
+    float: none;
     background: none;
     outline: none;
     font-size: 1em;
